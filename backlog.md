@@ -4,8 +4,6 @@ Everything we want to build — not yet started.
 
 ---
 
-- [ ] Build GoRevo Lovable dashboard (reads gorevo-pm via GitHub API)
-- [ ] Set up Nico Claude Code access to gorevo-pm repo
 - [ ] Define GoRevo MVP feature parity with Olivia
 - [ ] Build AI sales agent chat interface (B2C and B2B)
 - [ ] Lead capture flow
